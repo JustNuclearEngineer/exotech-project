@@ -1,0 +1,9 @@
+name: evl
+displayName: Exotech Project
+description:
+author: winter
+minGameVersion: 146
+version: 1.5.0
+main: MultiCrafterAdapter
+repo: JustNuclearEngineer/exotech-project
+java: true
